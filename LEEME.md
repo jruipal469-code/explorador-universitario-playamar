@@ -22,3 +22,6 @@ Para garantizar el regreso a una página exacta, añade al enlace del explorador
 https://TU-USUARIO.github.io/TU-REPOSITORIO/?volver=https%3A%2F%2Fblogsaverroes.juntadeandalucia.es%2Fbrujulaplayamar%2Fbuscador-universitario%2F
 
 Este parámetro tiene prioridad sobre la procedencia que comunique el navegador. Solo se aceptan direcciones HTTPS sin credenciales.
+
+## Optativas de matrícula
+Añadida la oferta de 1.º y 2.º del PDF del centro, páginas 8–11. Vigencia 2026–2027 confirmada por el usuario el 02/11/2026. Incluye dos materias de 2 horas o una de 4 horas, ordenación de todas las opciones por preferencia y oferta condicionada a la demanda. La referencia a primer curso en la alternativa de 4 horas de 2.º se conserva como consulta pendiente con Orientación.
