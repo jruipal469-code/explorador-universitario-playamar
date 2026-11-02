@@ -25,3 +25,5 @@ Este parámetro tiene prioridad sobre la procedencia que comunique el navegador.
 
 ## Optativas de matrícula
 Añadida la oferta de 1.º y 2.º del PDF del centro, páginas 8–11. Vigencia 2026–2027 confirmada por el usuario el 02/11/2026. Incluye dos materias de 2 horas o una de 4 horas, ordenación de todas las opciones por preferencia y oferta condicionada a la demanda. La referencia a primer curso en la alternativa de 4 horas de 2.º se conserva como consulta pendiente con Orientación.
+
+Actualización: STEAM RACING (1.º, 2 horas) e Historia de la Música y de la Danza (2.º, alternativa de 4 horas), según los horarios de grupos 2026–2027, páginas 69–86.
